@@ -1,6 +1,6 @@
 # Ejercicios Punteros C
 
-## Bruno Vega
+## Bruno Vega 5º 1º Electronica
 
 [Ejercicio Nº1](/Ejercicios/EJ-01.c)
 
