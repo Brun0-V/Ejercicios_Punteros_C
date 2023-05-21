@@ -7,7 +7,7 @@ int main()
     int a = 33, b = 66;
     int *Pa = &a, *Pb = &b;
     swap(Pa, Pb);
-    printf("%d %d\n", *Pa, *Pb);
+    printf("Valores Intercambiados: %d %d\n", *Pa, *Pb);
     return 0;
 }
 
